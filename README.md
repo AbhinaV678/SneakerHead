@@ -1,2 +1,2 @@
 # SneakerHead
-A onestop website for customising the sneakers of your dreams!
+A onestop website for customising the sneaker of your dreams!
