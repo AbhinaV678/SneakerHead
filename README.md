@@ -49,7 +49,7 @@ To run the application locally:
 2. Paste the URL of your desired image in the provided modal-which opens on clicking the icon beside the download button.
    ![AbhinaV678_SneakerHead - Google Chrome 27-11-2023 13_45_05](https://github.com/AbhinaV678/SneakerHead/assets/78131219/3290b612-582a-4926-88d9-472ba947b976)
 
-3. Preview the 3D model in real-time.
+3. Preview the generated 3D model in real-time.
    ![AbhinaV678_SneakerHead - Google Chrome 27-11-2023 13_45_18](https://github.com/AbhinaV678/SneakerHead/assets/78131219/0e54bc7c-39c1-4f72-88ef-0e8879838dda)
 
 5. Click on the download button to save your customized sneaker design.
