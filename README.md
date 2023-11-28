@@ -54,7 +54,20 @@ To run the application locally:
 
 5. Click on the download button to save your customized sneaker design.
 
+## How to get the image url?
+1. Visit any free image sharing website of your choice. A few examples would be unsplash.com,pexels.com,pixabay.com etc.
+   ![Beautiful Free Images   Pictures _ Unsplash - Google Chrome 28-11-2023 18_56_10](https://github.com/AbhinaV678/SneakerHead/assets/78131219/b0f0c54b-f9c2-449b-be2a-193d6c8d5ef3)
 
+2. Click on your desired image and then perform a right click while hovering over the image.
+3. Click on the option "Open image in new tab".
+   ![IMG20231128185804](https://github.com/AbhinaV678/SneakerHead/assets/78131219/0a7814f8-d1df-421e-8be9-c7890b695eee)
+
+4. Navigate to the opened tab and copy the image url.
+   ![IMG20231128185940](https://github.com/AbhinaV678/SneakerHead/assets/78131219/1bdd5672-4d89-4a97-aaca-b6280e8c8b39)
+
+## NOTE
+Donot use URL from websites which donot allow image sharing. The image won't get rendered due to possible CORS error.
+   
 ## Contributing
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request.
