@@ -46,7 +46,7 @@ To run the application locally:
 1. Open the web application at [https://abhinavkrdebsneakerhead.netlify.app/](https://abhinavkrdebsneakerhead.netlify.app/) in your preferred browser.
    ![AbhinaV678_SneakerHead - Google Chrome 27-11-2023 13_43_26](https://github.com/AbhinaV678/SneakerHead/assets/78131219/07001f76-e146-4f73-9cbb-68f78f6d9925)
 
-2. Paste the URL of your desired image in the provided modal.
+2. Paste the URL of your desired image in the provided modal-which opens on clicking the icon beside the download button.
    ![AbhinaV678_SneakerHead - Google Chrome 27-11-2023 13_45_05](https://github.com/AbhinaV678/SneakerHead/assets/78131219/3290b612-582a-4926-88d9-472ba947b976)
 
 3. Preview the 3D model in real-time.
